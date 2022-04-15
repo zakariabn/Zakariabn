@@ -11,13 +11,17 @@
 
 ## SKILLS
 
-> ## language
+> ### language
 
-![HTML5](https://i.ibb.co/TRvm5Z8/html5.png) ![HTML5](https://i.ibb.co/PDPhzxZ/CSS-3.png)  ![Github](https://i.ibb.co/bgX2vcp/js.png) ![React](https://i.ibb.co/ZYpz4ts/react.png)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![js](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-> ## Tools
+> ### Framework & Library
 
-![Github](https://i.ibb.co/HXFtYSQ/github.png)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFBhttps://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+> ### Tools
+
+![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
