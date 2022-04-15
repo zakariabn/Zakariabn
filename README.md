@@ -11,9 +11,9 @@
 
 ## SKILLS
 
-  <a href="">
-    <img style='margin: 0 auto; display: block; padding-bottom: 2rem' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zakariabn&layout=compact"/>
-  </a>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zakariabn&layout=compact"/>
+  </p>
 
 > ### language
 
@@ -39,12 +39,13 @@
 
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/POLOs38/) [![Epic games](https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white)]('') [![Origin](https://img.shields.io/badge/Origin-148EFF?style=for-the-badge&logo=origin&logoColor=white)]('')
 
-  <a href="">
-    <img
-      style='margin: auto; display: block; padding-top: 2rem' src="https://github-readme-stats.vercel.app/api?username=Zakariabn&show_icons=true&count_private=true&theme=radical&hide="/>
-  </a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Zakariabn&show_icons=true&count_private=true&theme=radical&"/>
+</p>
 
   <!--
    we can show 
-    &hide=stars,commits,prs,issues,contribs
+    hide items:  &hide=stars,commits,prs,issues,contribs
+    hide iocn: show_icons=false
+
    -->
