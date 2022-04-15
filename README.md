@@ -1,4 +1,4 @@
-### Hi there, I'm Zakaria
+# Hi there, I'm Zakaria
 
 > ### Hear is some Project i did
 
