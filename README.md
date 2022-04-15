@@ -41,7 +41,7 @@
 
   <a href="">
     <img
-      style='margin: 0 auto; display: block; padding-bottom: 2rem' src="https://github-readme-stats.vercel.app/api?username=Zakariabn&show_icons=true&count_private=true&theme=radical&hide="/>
+      style='margin: auto; display: block; padding-top: 2rem' src="https://github-readme-stats.vercel.app/api?username=Zakariabn&show_icons=true&count_private=true&theme=radical&hide="/>
   </a>
 
   <!--
