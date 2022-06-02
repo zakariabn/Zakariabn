@@ -2,8 +2,8 @@
 
 > ### Hear is some Project i did
 
-- 💰 Matir bank [click hear](https://matir-bank.netlify.app/)
-- 💲 Finance calculate [click hear](https://matir-bank.netlify.app/)
+- 💰 Orbit Tools [click hear](https://orbit-tools.web.app/)
+- 💲 E-Warehouse [click hear](https://e-warehouse-4345a.web.app/)
 - ⚙️ Pin matcher [click hear](https://pin-checker.netlify.app)
 - 🎥 mlovist [click hear](https://mlovist.netlify.app)
 
