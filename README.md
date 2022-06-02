@@ -2,11 +2,11 @@
 
 > ### Hear is some Project i did
 
-- > 🛠 **Orbit Tools** [click hear](https://orbit-tools.web.app/)
-- > 📦 **E-Warehouse** [click hear](https://e-warehouse-4345a.web.app/)
-- > 💉 **Tooth Care** [click hear](https://tooth-care-80c49.web.app/)
-- > ⚙️ **Pin matcher** [click hear](https://pin-checker.netlify.app)
-- > 🎥 **mlovist** [click hear](https://mlovist.netlify.app)
+- 🛠 **Orbit Tools** [click hear](https://orbit-tools.web.app/)
+- 📦 **E-Warehouse** [click hear](https://e-warehouse-4345a.web.app/)
+- 💉 **Tooth Care** [click hear](https://tooth-care-80c49.web.app/)
+- ⚙️ **Pin matcher** [click hear](https://pin-checker.netlify.app)
+- 🎥 **mlovist** [click hear](https://mlovist.netlify.app)
 
 ---
 
